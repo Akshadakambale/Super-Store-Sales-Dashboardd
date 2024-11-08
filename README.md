@@ -70,8 +70,10 @@ Open the .pbix file in Power BI Desktop.
 |    |-- dashboard_page1_ship_subcategory.png # Sales by ship mode and sub-category
 |    |-- dashboard_page1_profit.png # Profit analysis chart
 ## Usage
-### For Business Stakeholders: This dashboard offers actionable insights for sales teams, managers, and executives.
-### Decision-Making: Supports inventory management, customer targeting, and regional strategy enhancement.
+### For Business Stakeholders: 
+This dashboard offers actionable insights for sales teams, managers, and executives.
+### Decision-Making: 
+Supports inventory management, customer targeting, and regional strategy enhancement.
 ## Contributing
 If you would like to contribute, feel free to fork this repository and open a pull request with your suggestions.
 
